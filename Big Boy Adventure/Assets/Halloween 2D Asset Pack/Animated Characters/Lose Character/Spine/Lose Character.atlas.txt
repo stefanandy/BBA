@@ -1,0 +1,82 @@
+
+Lose Character.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: true
+  xy: 2, 2
+  size: 236, 353
+  orig: 236, 353
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 240
+  size: 607, 781
+  orig: 607, 781
+  offset: 0, 0
+  index: -1
+lantern light green
+  rotate: false
+  xy: 953, 949
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+lantern light orange
+  rotate: false
+  xy: 440, 166
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: false
+  xy: 357, 15
+  size: 81, 105
+  orig: 81, 105
+  offset: 0, 0
+  index: -1
+pupils
+  rotate: true
+  xy: 953, 851
+  size: 96, 14
+  orig: 96, 14
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: false
+  xy: 357, 122
+  size: 81, 116
+  orig: 81, 116
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 611, 146
+  size: 340, 875
+  orig: 340, 875
+  offset: 0, 0
+  index: -1
+
+Lose Character2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 2
+  size: 332, 361
+  orig: 332, 361
+  offset: 0, 0
+  index: -1
+lantern
+  rotate: false
+  xy: 336, 25
+  size: 322, 338
+  orig: 322, 338
+  offset: 0, 0
+  index: -1

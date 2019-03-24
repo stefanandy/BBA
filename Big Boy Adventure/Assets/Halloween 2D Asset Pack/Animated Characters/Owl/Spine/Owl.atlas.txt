@@ -1,0 +1,48 @@
+
+Owl.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ear left
+  rotate: false
+  xy: 191, 169
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+ear right
+  rotate: true
+  xy: 2, 6
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+lower eyelid
+  rotate: false
+  xy: 88, 2
+  size: 108, 28
+  orig: 108, 28
+  offset: 0, 0
+  index: -1
+overhead eyelids
+  rotate: false
+  xy: 88, 32
+  size: 108, 35
+  orig: 108, 35
+  offset: 0, 0
+  index: -1
+owl body
+  rotate: false
+  xy: 2, 69
+  size: 187, 184
+  orig: 187, 184
+  offset: 0, 0
+  index: -1
+pupils
+  rotate: true
+  xy: 191, 87
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1

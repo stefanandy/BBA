@@ -1,0 +1,125 @@
+
+Merchant.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: false
+  xy: 687, 223
+  size: 99, 106
+  orig: 99, 106
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 513, 331
+  size: 224, 82
+  orig: 224, 82
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 788, 840
+  size: 169, 234
+  orig: 169, 234
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: false
+  xy: 2, 443
+  size: 515, 566
+  orig: 515, 566
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 519, 820
+  size: 267, 189
+  orig: 267, 189
+  offset: 0, 0
+  index: -1
+fingers
+  rotate: false
+  xy: 532, 2
+  size: 116, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 796, 531
+  size: 220, 105
+  orig: 220, 105
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 796, 638
+  size: 209, 200
+  orig: 209, 200
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: true
+  xy: 407, 54
+  size: 154, 123
+  orig: 154, 123
+  offset: 0, 0
+  index: -1
+left boot
+  rotate: false
+  xy: 655, 551
+  size: 139, 267
+  orig: 139, 267
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: false
+  xy: 519, 415
+  size: 197, 125
+  orig: 197, 125
+  offset: 0, 0
+  index: -1
+left pauldron
+  rotate: false
+  xy: 532, 103
+  size: 135, 128
+  orig: 135, 128
+  offset: 0, 0
+  index: -1
+legs
+  rotate: false
+  xy: 2, 54
+  size: 403, 387
+  orig: 403, 387
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: true
+  xy: 513, 233
+  size: 96, 172
+  orig: 96, 172
+  offset: 0, 0
+  index: -1
+right boot
+  rotate: false
+  xy: 407, 210
+  size: 104, 231
+  orig: 104, 231
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: true
+  xy: 519, 542
+  size: 276, 134
+  orig: 276, 134
+  offset: 0, 0
+  index: -1
+right pauldron
+  rotate: false
+  xy: 669, 113
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1

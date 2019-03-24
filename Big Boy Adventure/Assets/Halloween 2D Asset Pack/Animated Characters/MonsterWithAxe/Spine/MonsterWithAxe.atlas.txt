@@ -1,0 +1,82 @@
+
+MonsterWithAxe.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hat
+  rotate: false
+  xy: 566, 2
+  size: 438, 422
+  orig: 438, 422
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 426
+  size: 988, 595
+  orig: 988, 595
+  offset: 0, 0
+  index: -1
+wing left
+  rotate: false
+  xy: 2, 97
+  size: 562, 327
+  orig: 562, 327
+  offset: 0, 0
+  index: -1
+
+MonsterWithAxe2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body2
+  rotate: false
+  xy: 2, 100
+  size: 318, 352
+  orig: 318, 352
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 611, 274
+  size: 345, 276
+  orig: 345, 276
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: false
+  xy: 611, 2
+  size: 207, 270
+  orig: 207, 270
+  offset: 0, 0
+  index: -1
+legs
+  rotate: false
+  xy: 2, 454
+  size: 516, 551
+  orig: 516, 551
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: true
+  xy: 520, 728
+  size: 277, 385
+  orig: 277, 385
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 520, 552
+  size: 355, 174
+  orig: 355, 174
+  offset: 0, 0
+  index: -1
+wing right
+  rotate: true
+  xy: 322, 75
+  size: 377, 287
+  orig: 377, 287
+  offset: 0, 0
+  index: -1

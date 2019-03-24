@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Crate
+  - Lava
+  - Boss
+  - MovingPlatform
+  - FatBoyBomb
+  - Ground
+  - Crates
+  - Ladder
+  - Container
+  - Spike
+  - Car
+  - Platform
+  - Spikes_lvl5
+  - Spikes_lvl7
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Reflectible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NewWallBackground
+    uniqueID: 4223117371
+    locked: 0
+  - name: WallBackground
+    uniqueID: 1860389037
+    locked: 0
+  - name: BackgroundPictures
+    uniqueID: 642127035
+    locked: 0
+  - name: Door
+    uniqueID: 724688349
+    locked: 0
+  - name: background
+    uniqueID: 1821287673
+    locked: 0
+  - name: Spike0
+    uniqueID: 2048746381
+    locked: 0
+  - name: Spike1
+    uniqueID: 1459513443
+    locked: 0
+  - name: Spike2
+    uniqueID: 15110263
+    locked: 0
+  - name: ground
+    uniqueID: 2279770145
+    locked: 0
+  - name: Enemy
+    uniqueID: 1519154421
+    locked: 0
+  - name: Player
+    uniqueID: 2974897329
+    locked: 0
+  - name: Car
+    uniqueID: 3118517999
+    locked: 0
+  - name: Test
+    uniqueID: 958727593
+    locked: 0
